@@ -1,5 +1,3 @@
-# Index-b-sica.-
-Una index básica y esto lo hago con el motivo de ayudar a personas con conocimientos básicos.
 <HEAD>
 <H2 TITLE>(título).</TITLE>
 <BODY TEXT=#8e0202
@@ -13,3 +11,4 @@ Una index básica y esto lo hago con el motivo de ayudar a personas con conocimi
 <h1 ALIGN="CENTER"</H1>
 <BR>
 <FONT COLOR="WHITE"> <h3
+
